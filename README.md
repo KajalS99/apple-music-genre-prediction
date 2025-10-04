@@ -64,17 +64,30 @@ The following steps are applied in the notebook before modeling:
 
 ### Figures extracted from the notebook (representative set):
 
-#### Distributions and Correlations
+## Figures
+
+### Exploratory Data Analysis (EDA)
 ![Histogram – Track Price](images/histogram_01.png)
 ![Histogram – Track Duration](images/histogram_02.png)
-![Correlation Heatmap](images/heatmap_07.png)
-
-#### Category Summaries
+![Histogram – Other](images/histogram_04.png)
+![Correlation Heatmap 1](images/heatmap_07.png)
+![Correlation Heatmap 2](images/heatmap_17.png)
 ![Top Genres / Counts](images/barplot_03.png)
+![Category Distribution 2](images/barplot_09.png)
+![Category Distribution 3](images/barplot_14.png)
 
-#### Model Diagnostics
-![Confusion Matrix](images/confusion_matrix_11.png)
-![Macro ROC Curve](images/roc_15.png)
+### Model Diagnostics
+![Confusion Matrix 1](images/confusion_matrix_11.png)
+![Confusion Matrix 2](images/confusion_matrix_12.png)
+![Confusion Matrix 3](images/confusion_matrix_13.png)
+![Macro ROC Curve 1](images/roc_15.png)
+![Macro ROC Curve 2](images/roc_16.png)
+
+### Additional Figures
+![Figure 05](images/figure_05.png)
+![Figure 06](images/figure_06.png)
+![Figure 08](images/figure_08.png)
+![Figure 10](images/figure_10.png)
 
 
 ---
