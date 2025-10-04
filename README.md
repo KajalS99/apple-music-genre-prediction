@@ -69,7 +69,6 @@ The following steps are applied in the notebook before modeling:
 ![Histogram – Track Duration](images/histogram_02.png)
 ![Histogram – Other](images/histogram_04.png)
 ![Correlation Heatmap 1](images/heatmap_07.png)
-![Correlation Heatmap 2](images/heatmap_17.png)
 ![Top Genres / Counts](images/barplot_03.png)
 ![Category Distribution 2](images/barplot_09.png)
 ![Category Distribution 3](images/barplot_14.png)
@@ -82,6 +81,7 @@ The following steps are applied in the notebook before modeling:
 ![Confusion Matrix 1](images/confusion_matrix_11.png)
 ![Confusion Matrix 2](images/confusion_matrix_12.png)
 ![Confusion Matrix 3](images/confusion_matrix_13.png)
+![Correlation Heatmap 2](images/heatmap_17.png)
 ![Macro ROC Curve 1](images/roc_15.png)
 ![Macro ROC Curve 2](images/roc_16.png)
 
