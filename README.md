@@ -62,11 +62,20 @@ The following steps are applied in the notebook before modeling:
 - **Class balance**: A small number of genres dominate the catalog; minority classes have far fewer samples.
 - **Correlations**: Price- and time-related features show mild correlation patterns and skew; explicitness and streamability behave as useful categorical flags.
 
-Figures extracted from the notebook (representative set):
+### Figures extracted from the notebook (representative set):
 
-- `images/histogram_01.png`, `images/histogram_02.png`, `images/histogram_04.png`  
-- `images/heatmap_07.png`, `images/heatmap_17.png`  
-- `images/barplot_03.png`, `images/barplot_09.png`, `images/barplot_14.png`
+#### Distributions and Correlations
+![Histogram – Track Price](images/histogram_01.png)
+![Histogram – Track Duration](images/histogram_02.png)
+![Correlation Heatmap](images/heatmap_07.png)
+
+#### Category Summaries
+![Top Genres / Counts](images/barplot_03.png)
+
+#### Model Diagnostics
+![Confusion Matrix](images/confusion_matrix_11.png)
+![Macro ROC Curve](images/roc_15.png)
+
 
 ---
 
